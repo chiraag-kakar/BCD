@@ -2,10 +2,9 @@ theme: jekyll-theme-cayman
 
 gem "github-pages", group: :jekyll_plugins
 
-title: chiraag-kakar
-description: Logistic Regression Practical Case Study
+title: Breast Cancer detection using Logistic Regression
+description: This project detects breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
+
+
 
 show_downloads: true
-
-# Header 1
-
