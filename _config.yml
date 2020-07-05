@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
+
+gem "github-pages", group: :jekyll_plugins
+
+title: chiraag-kakar
+description: Logistic Regression Practical Case Study
+
 show_downloads: true
